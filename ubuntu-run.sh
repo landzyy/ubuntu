@@ -6,6 +6,7 @@ sudo apt-get update -y
 # Install essential packages
 sudo apt-get install -y \
   dialog \
+  npm \
   bash \
   sed \
   wget \
